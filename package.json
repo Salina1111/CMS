@@ -10,7 +10,10 @@
     "bcrypt": "^2.0.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "node-authorization": "^1.0.6"
+    "node-authorization": "^1.0.6",
+    "dotenv": "^6.1.0",
+    "redis": "^2.8.0",
+    "mongodb": "^3.1.10"
   },
   "devDependencies": {},
   "scripts": {
